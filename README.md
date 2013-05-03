@@ -9,5 +9,5 @@ be able to add it by:
 
  * Right-click-project -> Build Path -> Configure Build Path... -> click the Libraries tab 
 
- * In here, click add external JARs and add "jfxrt.jar". It should be in your Java install file under *.../java/jdk1.7.0_**/jre/lib*
+ * In here, click add external JARs and add "jfxrt.jar". It should be in your Java install file under *.../java/jdk1.7.0_xx/jre/lib*
 
